@@ -18,8 +18,11 @@ body {
 
 .links {
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
     padding-bottom: 20px;
     line-height: 50px;
+    max-width: 90vw;
 }
 
 a {
@@ -35,7 +38,7 @@ a {
 }
 
 .border {
-    min-width: 100vw;
+    min-width: 100%;
     min-height: 100vh;
     box-shadow: inset 0px 0px 0px 5px black;
 }
