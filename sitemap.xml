@@ -9,107 +9,112 @@
 
 <url>
   <loc>https://lainz.github.io/</loc>
-  <lastmod>2019-04-21T15:00:40+00:00</lastmod>
+  <lastmod>2019-05-07T23:51:24+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://lainz.github.io/cuentos/</loc>
-  <lastmod>2019-05-07T01:50:45+00:00</lastmod>
+  <lastmod>2019-05-12T20:29:59+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://lainz.github.io/webapps/</loc>
-  <lastmod>2018-07-29T21:53:36+00:00</lastmod>
+  <lastmod>2019-05-11T22:53:54+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://lainz.github.io/cuentos/doble-mente/</loc>
-  <lastmod>2019-05-07T01:50:45+00:00</lastmod>
+  <lastmod>2019-05-12T20:29:59+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://lainz.github.io/cuentos/entre-reflejos-y-sombras/</loc>
-  <lastmod>2019-05-07T01:50:45+00:00</lastmod>
+  <lastmod>2019-05-12T20:29:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://lainz.github.io/cuentos/las-colmenas/</loc>
+  <lastmod>2019-05-12T20:29:59+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://lainz.github.io/cuentos/entre-la-vida-y-la-muerte/</loc>
-  <lastmod>2019-05-07T01:50:45+00:00</lastmod>
+  <lastmod>2019-05-12T20:29:59+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://lainz.github.io/cuentos/en-el-camino-empedrado-encontre-una-moneda/</loc>
-  <lastmod>2019-05-07T01:50:45+00:00</lastmod>
+  <lastmod>2019-05-12T20:29:59+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://lainz.github.io/cuentos/mismo-tiempo/</loc>
-  <lastmod>2019-05-07T01:50:45+00:00</lastmod>
+  <lastmod>2019-05-12T20:29:59+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://lainz.github.io/cuentos/el-universo-holograma/</loc>
-  <lastmod>2019-05-07T01:50:45+00:00</lastmod>
+  <lastmod>2019-05-12T20:29:59+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://lainz.github.io/webapps/frecuencias/</loc>
-  <lastmod>2018-07-29T21:53:32+00:00</lastmod>
+  <lastmod>2019-05-11T22:53:51+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://lainz.github.io/webapps/palindromos/</loc>
-  <lastmod>2018-07-29T21:53:32+00:00</lastmod>
+  <lastmod>2019-05-11T22:53:51+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://lainz.github.io/webapps/siglos/</loc>
-  <lastmod>2018-07-29T21:53:32+00:00</lastmod>
+  <lastmod>2019-05-11T22:53:51+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://lainz.github.io/webapps/compras/</loc>
-  <lastmod>2018-07-29T21:53:32+00:00</lastmod>
+  <lastmod>2019-05-11T22:53:51+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://lainz.github.io/webapps/pseudocodigo/</loc>
-  <lastmod>2018-07-29T21:53:32+00:00</lastmod>
+  <lastmod>2019-05-11T22:53:51+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://lainz.github.io/webapps/cuentas/</loc>
-  <lastmod>2018-07-29T21:53:32+00:00</lastmod>
+  <lastmod>2019-05-11T22:53:51+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://lainz.github.io/webapps/turtlegraphics/</loc>
-  <lastmod>2018-07-29T21:53:32+00:00</lastmod>
+  <lastmod>2019-05-11T22:53:51+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://lainz.github.io/webapps/turtlegraphicsfibonacci/</loc>
-  <lastmod>2018-07-29T21:53:32+00:00</lastmod>
+  <lastmod>2019-05-11T22:53:51+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://lainz.github.io/webapps/squiraltour/</loc>
-  <lastmod>2018-07-29T21:53:32+00:00</lastmod>
+  <lastmod>2019-05-11T22:53:51+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://lainz.github.io/webapps/turtlegraphicspaint/</loc>
-  <lastmod>2018-07-29T21:53:32+00:00</lastmod>
+  <lastmod>2019-05-11T22:53:51+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://lainz.github.io/webapps/marcadeagua/</loc>
-  <lastmod>2018-07-29T21:53:32+00:00</lastmod>
+  <lastmod>2019-05-11T22:53:51+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://lainz.github.io/webapps/miradas/</loc>
-  <lastmod>2018-07-29T21:53:32+00:00</lastmod>
+  <lastmod>2019-05-11T22:53:51+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
