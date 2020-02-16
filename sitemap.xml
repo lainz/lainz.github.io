@@ -9,17 +9,12 @@
 
 <url>
   <loc>https://lainz.github.io/</loc>
-  <lastmod>2020-01-11T23:07:58+00:00</lastmod>
+  <lastmod>2020-02-16T19:17:16+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://lainz.github.io/webapps/</loc>
   <lastmod>2019-05-25T13:12:15+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://lainz.github.io/cuentos/</loc>
-  <lastmod>2020-01-14T02:15:34+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
@@ -85,86 +80,6 @@
 <url>
   <loc>https://lainz.github.io/webapps/escribiralreves/</loc>
   <lastmod>2019-05-25T13:12:12+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://lainz.github.io/cuentos/el-pacifista/</loc>
-  <lastmod>2020-01-14T02:15:34+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://lainz.github.io/cuentos/fractalia/</loc>
-  <lastmod>2020-01-14T02:15:34+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://lainz.github.io/cuentos/doble-mente/</loc>
-  <lastmod>2020-01-14T02:15:34+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://lainz.github.io/cuentos/entre-reflejos-y-sombras/</loc>
-  <lastmod>2020-01-14T02:15:34+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://lainz.github.io/cuentos/las-colmenas/</loc>
-  <lastmod>2020-01-14T02:15:34+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://lainz.github.io/cuentos/las-cadenas-del-tiempo/</loc>
-  <lastmod>2020-01-14T02:15:34+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://lainz.github.io/cuentos/entre-la-vida-y-la-muerte/</loc>
-  <lastmod>2020-01-14T02:15:34+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://lainz.github.io/cuentos/en-el-camino-empedrado-encontre-una-moneda/</loc>
-  <lastmod>2020-01-14T02:15:34+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://lainz.github.io/cuentos/mismo-tiempo/</loc>
-  <lastmod>2020-01-14T02:15:34+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://lainz.github.io/cuentos/el-universo-holograma/</loc>
-  <lastmod>2020-01-14T02:15:34+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://lainz.github.io/cuentos/en-el-camino-de-la-vida/</loc>
-  <lastmod>2020-01-14T02:15:34+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://lainz.github.io/cuentos/frivolite/</loc>
-  <lastmod>2020-01-14T02:15:34+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://lainz.github.io/cuentos/cuentos-del-viajero-del-tiempo/</loc>
-  <lastmod>2020-01-14T02:15:34+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://lainz.github.io/cuentos/treboles/</loc>
-  <lastmod>2020-01-14T02:15:34+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://lainz.github.io/cuentos/la-ciudad-de-los-cuentos/</loc>
-  <lastmod>2020-01-14T02:15:34+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://lainz.github.io/cuentos/cuentos-del-dios-del-tiempo/</loc>
-  <lastmod>2020-01-14T02:15:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
